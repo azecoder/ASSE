@@ -1,0 +1,7 @@
+[run]
+source = beepbeep/authservice/*
+
+omit =  *__init__*
+        beepbeep/authservice/tests/*
+        beepbeep/authservice/app.py
+        beepbeep/authservice/run.py

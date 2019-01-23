@@ -1,0 +1,8 @@
+[run]
+source = beepbeep/dataservice/*
+
+omit =  *__init__*
+        beepbeep/dataservice/tests/*
+        beepbeep/dataservice/app.py
+        beepbeep/dataservice/run.py
+        

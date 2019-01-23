@@ -1,0 +1,5 @@
+[run]
+source = datapump/*
+
+omit =  *__init__*
+        datapump/tests/*

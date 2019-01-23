@@ -1,0 +1,4 @@
+celery
+stravalib==0.9.4
+requests
+requests_mock
