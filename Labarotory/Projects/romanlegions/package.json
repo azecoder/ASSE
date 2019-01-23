@@ -1,0 +1,16 @@
+{
+  "name": "romanlegions",
+  "version": "1.0.0",
+  "description": "\"Roman Legions\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "\"azecoder\"",
+  "license": "ISC",
+  "dependencies": {
+    "camunda-external-task-client-js": "^1.1.1"
+  },
+  "devDependencies": {}
+}
